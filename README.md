@@ -1,2 +1,2 @@
-# trabajo
-trabajo Nro06
+# trabajo06.burga.bravo
+trabajo Nro06 
